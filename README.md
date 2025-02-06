@@ -10,14 +10,14 @@ This project focuses on building a machine learning model to predict housing pri
 - [Results](#results)
 
 ## Project Overview
-The primary objective of this project is to develop a predictive model for California housing prices. By analyzing and processing the data, the project identifies key factors affecting housing prices and builds a machine learning model to deliver accurate predictions.
+The primary objective of this project is to develop a predictive model for California housing prices. By analyzing and processing the data, the project identifies key factors affecting housing prices and builds a machine-learning model to deliver accurate predictions.
 
 ## Dataset
 The dataset used in this project includes:
 - 10,000+ housing records from California.
-- Features such as median income, housing age, total rooms, population, and more.
+- Features include median income, housing age, total rooms, population, and more.
 
-**Data Source:** The dataset was obtained from [[insert source](https://www.kaggle.com/datasets/camnugent/california-housing-prices)].
+**Data Source:** The dataset was obtained from [[Link](https://www.kaggle.com/datasets/camnugent/california-housing-prices)].
 
 ## Technologies Used
 - Python
